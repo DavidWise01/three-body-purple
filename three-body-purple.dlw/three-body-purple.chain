@@ -4,6 +4,6 @@ slug  : three-body-purple
 seal  : 8ef48f6c25808edf4fea0f566dddf2bdbb32c9f9367f713582403572de9c1fe3
 prev  : 8654f1bb739e3ffc4dd0e708a1a942afff75331bf8a62a19fe404ef6c546ef4e
 link  : 1602230f94e508fc258c7b79c9cdbc2e392a374271419f3bc2680b01390f14a9
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
